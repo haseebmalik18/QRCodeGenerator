@@ -15,3 +15,13 @@ A simple Java-based QR code generator for creating QR codes from text, URLs, Wi-
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/haseebmalik18/QRCodeGenerator.git
+```
+### 2. Navigate to the project directory
+```bash
+cd QRCodeGenerator
+```
+### 3. Build the project using gradle
+```bash
+gradle build
+```
+
